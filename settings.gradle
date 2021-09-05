@@ -1,0 +1,2 @@
+rootProject.name = "My Nav2f"
+include ':app'
